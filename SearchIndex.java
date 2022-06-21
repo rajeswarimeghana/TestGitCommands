@@ -7,6 +7,7 @@ class SearchIndex
     // main method
     public static void main(String args[])
     {
+	System.out.println("Testig something for Trynowlinks");
       // create an object for the scanner
       Scanner sc = new Scanner(System.in);
       // display the message
