@@ -4,6 +4,7 @@ class Arrays
     // main method
     public static void main(String args[])
     {
+	System.out.println("To test the git commands");
       // declare and initialize the array
       // Syntax 1
       // dt variable[size] = {v1, v2, ...};
